@@ -1,4 +1,5 @@
 Financial Investment Decision Dashboard
+
 📌 Overview
 This project presents a Financial Investment Decision Dashboard built using Power BI. The dashboard analyzes investment behavior, preferences, and objectives of individuals across different financial avenues such as Equity, Fixed Deposits, Mutual Funds, and Public Provident Fund (PPF).
 It helps in understanding how people allocate their investments and the key factors influencing their financial decisions.
