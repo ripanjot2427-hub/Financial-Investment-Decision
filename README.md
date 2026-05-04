@@ -51,6 +51,9 @@ Bar Charts (Savings Objectives & Gender Comparison)
 Line Chart (Reasons for Investment)
 Map Visualization (Geographical Insights)
 Interactive Filters for better analysis
+Screenshot
+<img width="1505" height="941" alt="Dashboard preview" src="https://github.com/user-attachments/assets/3aba538b-1b56-49c4-bbb7-039c0cf86193" />
+
 
 🛠 Tools & Technologies Used
 Power BI – Dashboard creation
